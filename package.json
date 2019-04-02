@@ -17,7 +17,7 @@
   },
   "keywords": [],
   "private": true,
-  "author": "info@tangany.com",
+  "author": "Tangany <developers@tangany.com>",
   "license": "ISC",
   "dependencies": {
     "cpr": "^3.0.1",
